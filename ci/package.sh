@@ -50,6 +50,7 @@ package $pipelines_dir "default-kabanero"
 package $eventing_pipelines_dir "kabanero-events"
 
 package $gitops_pipelines_dir "kabanero-gitops"
+echo "sds"
 
 echo -e "--- Created pipeline artifacts"
 
